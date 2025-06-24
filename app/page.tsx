@@ -21,7 +21,7 @@ export default function Home() {
         {/* Logo in the center */}
         <div className="mb-8">
           <Image
-            src="/your-logo.png" // **Replace with your logo path**
+            src="public/SAlogo.svg" // **Replace with your logo path**
             alt="Company Logo"
             width={200} // Adjust width as needed
             height={200} // Adjust height as needed
